@@ -1,0 +1,45 @@
+/* dogstyles04.css | [Your Name] | [Date] | [Student Number] */
+/* General Website Styling */
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fffaf0;
+  color: #333;
+}
+
+header {
+  background-color: #ffcc99;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  background-color: #ff9966;
+  list-style: none;
+  padding: 10px;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #ffcc99;
+  text-align: center;
+  padding: 10px;
+}
