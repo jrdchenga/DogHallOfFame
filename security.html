@@ -1,0 +1,4 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>Security</title><script src="scripts.js" defer></script><link rel="stylesheet" href="styles.css"></head>
+<body><h1>Dog Hall of Fame</h1><nav><a href='index.html'>Home</a><a href='math.html'>Age</a><a href='control.html'>Traits</a><a href='form.html'>Form</a><a href='validation.html'>Validation</a><a href='elapsed.html'>Elapsed</a><a href='feedback.html'>Feedback</a><a href='security.html'>Location</a><a href='ajax.html'>Facts</a></nav><main><h2>Your Location</h2><div id='map' style='height:300px;'></div><script>function showMap(){navigator.geolocation.getCurrentPosition(p=>{new google.maps.Map(document.getElementById('map'),{center:{lat:p.coords.latitude,lng:p.coords.longitude},zoom:12});});}</script><script src='https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=showMap' async defer></script></main></body>
+</html>
