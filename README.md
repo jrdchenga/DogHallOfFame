@@ -1,10 +1,7 @@
-# Dog Hall of Fame - JavaScript Final Project (CA-JVSPT)
+# Dog Hall of Fame - JavaScript Final Project
 
 ## Author:
-Hubert Junior Dchenga Batchagna  
-Student Number: 664405728  
-Instructor: [Instructor Name]  
-Submission Date: [Submission Date]
+Hubert Junior Dchenga Batchagna
 
 ## Project Overview:
 This website showcases heroic dogs and their stories. It includes multiple interactive JavaScript-driven features to demonstrate mastery of client-side scripting techniques.
@@ -32,6 +29,3 @@ This website showcases heroic dogs and their stories. It includes multiple inter
 - Open `index.html` to start exploring the website.
 - Each link in the navigation bar leads to a different feature page.
 - Make sure you are connected to the internet for the map and AJAX features.
-
-## Notes:
-- Replace `YOUR_API_KEY` in `security.html` with your actual Google Maps API key.
